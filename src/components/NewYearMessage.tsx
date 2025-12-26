@@ -109,10 +109,24 @@ const ChristmasMessage = () => {
             From My Heart
           </p>
           
-          <p className="font-body text-foreground/80 text-lg leading-relaxed max-w-lg mx-auto">
+          <p className="font-body text-foreground/80 text-lg leading-relaxed max-w-lg mx-auto mb-6">
             I see now where I stopped showing up the way you needed—not because I didn't care, 
             but because I didn't understand myself well enough then but now I do with your freedom 
             and everything good you deserve in this world.
+          </p>
+          
+          <p className="font-body text-foreground/80 text-lg leading-relaxed max-w-lg mx-auto mb-6">
+            By the time you get this I don't know if I am alive or not but just know you are 
+            the most beautiful thing that ever happened to me and I love you 🫂
+          </p>
+          
+          <p className="font-body text-foreground/80 text-lg leading-relaxed max-w-lg mx-auto mb-6">
+            Thank you for being honest with me. I respect the time you asked for, and I'll give 
+            you the space you need. Take care.
+          </p>
+          
+          <p className="font-display text-xl md:text-2xl gradient-text mt-4">
+            HOPE YOU RETURN BACK WITH THE COLOURS IN MY LIFE
           </p>
           
           <div className="mt-8 flex items-center justify-center gap-4">
