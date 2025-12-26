@@ -66,7 +66,7 @@ const ChristmasMessage = () => {
         </div>
         
         <h1 className="font-display text-4xl md:text-6xl lg:text-7xl gradient-text mb-4 leading-tight">
-          Merry Christmas
+          Happy New Year
         </h1>
         
         <div className="flex items-center justify-center gap-2 mb-4">

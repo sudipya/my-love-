@@ -1,6 +1,6 @@
 import FloatingHearts from "@/components/FloatingHearts";
 import Snowflakes from "@/components/Snowflakes";
-import ChristmasMessage from "@/components/ChristmasMessage";
+import NewYearMessage from "@/components/NewYearMessage";
 import MusicPlayer from "@/components/MusicPlayer";
 
 const Index = () => {
@@ -15,7 +15,7 @@ const Index = () => {
       <FloatingHearts />
       
       {/* Main content */}
-      <ChristmasMessage />
+      <NewYearMessage />
       
       {/* Music player */}
       <MusicPlayer />
