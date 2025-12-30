@@ -125,9 +125,37 @@ const ChristmasMessage = () => {
             you the space you need. Take care.
           </p>
           
-          <p className="font-display text-xl md:text-2xl gradient-text mt-4">
+          <p className="font-display text-xl md:text-2xl gradient-text mt-4 mb-8">
             HOPE YOU RETURN BACK WITH THE COLOURS IN MY LIFE
           </p>
+          
+          <div className="text-left font-body text-foreground/80 text-lg leading-relaxed max-w-lg mx-auto space-y-6">
+            <p className="font-display text-xl gradient-text">
+              But this time if you choose me only if (idk if this is even ever going to happen again)
+            </p>
+            
+            <div className="space-y-4">
+              <p>
+                <span className="font-semibold text-rose-deep">1.</span> Meri trf se koi restrictions kavi thi hi nhi still you think agr thi then let me clarify aage se Kavi nhi hongi (na hi mere ghrwalo ko problem h kuch) with anything your job your freedom your self respect, jo pehnna pehno whatever you feel like jaisa acha lge waisa kro, any job any business or any restriction mere aage ya mere piche it doesn't matters anyways
+              </p>
+              
+              <p>
+                <span className="font-semibold text-rose-deep">2.</span> I've grown up in so many ways after so many relentless and restless nights that I'm not insecure anymore and not that I will be ever
+              </p>
+              
+              <p>
+                <span className="font-semibold text-rose-deep">3.</span> I never shared my problems or my situations with you bcz I always wanted to see you smiling but I even failed in that too, so this time instead of being the cringe and always clingy and flirty one it will be real me the real one without any filters
+              </p>
+            </div>
+            
+            <p>
+              You never saw me excited for anything you never saw me crying out of anger you never saw me carry all the load on me but still I tried to make it upto everyone while holding everything inside me. Choose me one more time please after the time you have asked for. But yk all this if I am still in this world and only if you choose me one last time over my toxic past you will always be my last 7 minutes if I'm not here Always love you 🫂
+            </p>
+            
+            <p className="font-display text-lg gradient-text text-center">
+              You have your full freedom and space if you don't, you are your individual self not my puppet to control so I leave it upto you
+            </p>
+          </div>
           
           <div className="mt-8 flex items-center justify-center gap-4">
             <Sparkles className="w-4 h-4 text-gold animate-sparkle" style={{ animationDelay: "0s" }} />
