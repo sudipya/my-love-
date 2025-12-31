@@ -130,30 +130,72 @@ const ChristmasMessage = () => {
           </p>
           
           <div className="text-left font-body text-foreground/80 text-lg leading-relaxed max-w-lg mx-auto space-y-6">
-            <p className="font-display text-xl gradient-text">
-              But this time if you choose me only if (idk if this is even ever going to happen again)
+            <p className="font-display text-2xl gradient-text text-center mb-4">
+              One Last Time — With Truth, Not Promises
             </p>
-            
-            <div className="space-y-4">
-              <p>
-                <span className="font-semibold text-rose-deep">1.</span> Meri trf se koi restrictions kavi thi hi nhi still you think agr thi then let me clarify aage se Kavi nhi hongi (na hi mere ghrwalo ko problem h kuch) with anything your job your freedom your self respect, jo pehnna pehno whatever you feel like jaisa acha lge waisa kro, any job any business or any restriction mere aage ya mere piche it doesn't matters anyways
-              </p>
-              
-              <p>
-                <span className="font-semibold text-rose-deep">2.</span> I've grown up in so many ways after so many relentless and restless nights that I'm not insecure anymore and not that I will be ever
-              </p>
-              
-              <p>
-                <span className="font-semibold text-rose-deep">3.</span> I never shared my problems or my situations with you bcz I always wanted to see you smiling but I even failed in that too, so this time instead of being the cringe and always clingy and flirty one it will be real me the real one without any filters
-              </p>
-            </div>
             
             <p>
-              You never saw me excited for anything you never saw me crying out of anger you never saw me carry all the load on me but still I tried to make it upto everyone while holding everything inside me. Choose me one more time please after the time you have asked for. But yk all this if I am still in this world and only if you choose me one last time over my toxic past you will always be my last 7 minutes if I'm not here Always love you 🫂
+              If this ever happens again—if you ever choose me—this is everything I want you to know, clearly and honestly.
             </p>
             
-            <p className="font-display text-lg gradient-text text-center">
-              You have your full freedom and space if you don't, you are your individual self not my puppet to control so I leave it upto you
+            <p>
+              You know me, and I know you—perhaps more deeply than anyone else ever could. I feel it when you are sad, when you are in pain, and even when you are angry. Some connections don't need words; they are felt, even in silence.
+            </p>
+            
+            <p>
+              From my side, there were never restrictions. And if you ever felt there were, let me be clear—there will be none, ever. Not now, not in the future.
+            </p>
+            
+            <p>
+              There is no issue from my family either. Your job, your freedom, your self-respect, your choices—everything is yours. Wear what you want. Do what feels right. Choose any career, any business, any path. Whether in front of me or behind me, none of it changes how I see you. Your life is yours.
+            </p>
+            
+            <p>
+              I have grown—quietly, painfully, and deeply—through countless restless nights. I am not insecure anymore, and I never will be again.
+            </p>
+            
+            <p>
+              Yes, I failed recently. Not because I didn't care, but because I was dealing with my own battles in ways I didn't know how to explain. I take responsibility for that.
+            </p>
+            
+            <p>
+              I never shared my struggles with you because all I wanted was to see you smile. Even in that, I failed. This time, I won't pretend. I won't be the cringe, clingy, or overly flirty version of myself. This will be the real me—unfiltered, honest, and present.
+            </p>
+            
+            <p className="text-center italic text-foreground/90">
+              You never saw me excited for myself.<br />
+              You never saw me cry out of anger.<br />
+              You never saw me carrying everything alone.
+            </p>
+            
+            <p>
+              Yet I still tried to be there for everyone, holding everything inside.
+            </p>
+            
+            <p>
+              If there is one thing you know about me, it is this—I can change. I always have when life demanded it. Growth has never scared me. Losing something meaningful has.
+            </p>
+            
+            <p>
+              So instead of letting time turn us into strangers, instead of pretending we were never important to each other, I wish we could choose each other once more. Not to repeat the past, but to build something better—with understanding, honesty, and maturity.
+            </p>
+            
+            <p>
+              After the time you asked for, I ask only this—choose me one last time. Choose me over my toxic past. If I am still here, if life allows it, you will always be my last choice, my last priority, my last seven minutes.
+            </p>
+            
+            <p className="text-center">
+              You have complete freedom and space. Always.<br />
+              You are your own individual—not something to be controlled, not a puppet in my hands.
+            </p>
+            
+            <p className="text-center font-medium">
+              The decision is entirely yours.
+            </p>
+            
+            <p className="font-display text-xl gradient-text text-center">
+              And no matter what—<br />
+              I will always love you.
             </p>
           </div>
           
